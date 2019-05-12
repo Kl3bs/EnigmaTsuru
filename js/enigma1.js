@@ -1,5 +1,5 @@
 function resposta1 (){
-  var r1 = prompt ("INSIA AQUI A RESPOSTA:");
+  var r1 = prompt ("INSIRA AQUI A RESPOSTA:");
   var resposta = r1.toLowerCase();
 
   if (resposta == "japão" || resposta == "japao"){
