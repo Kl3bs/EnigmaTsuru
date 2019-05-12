@@ -1,3 +1,3 @@
 function enigma1 (){
-    window.location.href = "../html/enigma1.html";
+    window.location.href = "../pages/enigma1.html";
 }
