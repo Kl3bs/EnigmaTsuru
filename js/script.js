@@ -1,5 +1,5 @@
 function enigma1 (){
     window.location.href = "../";
-    window.location.href = "pages/enigma1.html";
+    window.location.href = "pages/telaEscura.html";
 
 }

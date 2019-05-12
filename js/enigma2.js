@@ -4,7 +4,7 @@ function resposta1 (){
 
   if (resposta == "sagrada"){
       alert("Acertoooou, miserave.")
-      window.location.href = "enigma3.html"
+      window.location.href = "eden.html"
   }
 
   if (resposta == "rasgada"){

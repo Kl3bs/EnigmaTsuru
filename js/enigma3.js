@@ -4,7 +4,7 @@ function resposta1 (){
 
   if (resposta == "ave"){
       alert("Acertoooou, miserave.")
-      window.location.href = "enigma4.html"
+      window.location.href = "frase.html"
   }
 
   if (resposta == "eva"){

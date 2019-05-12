@@ -2,9 +2,9 @@ function resposta1 (){
   var r1 = prompt ("INSIRA AQUI A RESPOSTA:");
   var resposta = r1.toLowerCase();
 
-  if (resposta == "tsuru pássaro sagrado do japão" || resposta == "tsuru passaro sagrado do japao" || resposta == "tsuru pássaro sagrado do japao" || resposta == "tsuru passaro sagrado do japão"){
-      alert("Acertoooou, miserave.")
-      window.location.href = "../index.html"
+  if (resposta == "tsuru ave sagrada do japão" || resposta == "tsuru ave sagrada do japao" || resposta == "tsuru ave sagrada do japao" || resposta == "tsuru ave sagrada do japão"){
+      console.log(resposta);
+      window.location.href = "../pages/thatsallfolks.html"
   }
 
   if (resposta == "tsuru + '3' + '2' + do + '1'"){

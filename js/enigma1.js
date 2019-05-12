@@ -4,7 +4,7 @@ function resposta1 (){
 
   if (resposta == "japão" || resposta == "japao"){
 
-      window.location.href = "enigma2.html"
+      window.location.href = "tioGoogle.html"
   }
 
   if (resposta == "35° 41' 22 139° 41' 30"){
