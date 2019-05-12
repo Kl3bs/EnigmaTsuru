@@ -56,7 +56,8 @@ body {
     background-repeat: no-repeat;
     background-position: center top;
     font-family: 'Lato', sans-serif;
-
+    color: white;
+    
 
 }
 
@@ -80,4 +81,9 @@ body {
 #iniciar:hover {
     background-color: pink;
     color: white;
+}
+
+body p {
+    margin-top: 50px;
+    text-align: center;
 }
