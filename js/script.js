@@ -1,5 +1,1 @@
-function enigma1 (){
-    window.location.href = "../";
-    window.location.href = "pages/telaEscura.html";
-
-}
+var _0x3639=["\x68\x72\x65\x66","\x6C\x6F\x63\x61\x74\x69\x6F\x6E","\x2E\x2E\x2F","\x70\x61\x67\x65\x73\x2F\x74\x65\x6C\x61\x45\x73\x63\x75\x72\x61\x2E\x68\x74\x6D\x6C"];function enigma1(){window[_0x3639[1]][_0x3639[0]]= _0x3639[2];window[_0x3639[1]][_0x3639[0]]= _0x3639[3]}
