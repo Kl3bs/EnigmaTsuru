@@ -7,7 +7,7 @@ function resposta1 (){
       window.location.href = "../index.html"
   }
 
-  if (resposta == "tsuru '3' + '2' + do + '1'"){
+  if (resposta == "tsuru + '3' + '2' + do + '1'"){
       alert ("Vem tranquilo, afoba não! \n Leia o Título !! ")
   }
 }
